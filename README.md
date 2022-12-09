@@ -1,2 +1,1 @@
-# Js-questions
-# Js-questions
+# JavaScript Interview Questions & Answers
